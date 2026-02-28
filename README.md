@@ -1,3 +1,3 @@
 # allkey
 
-https://8zx.github.io/allkey/
+https://arjtriv.github.io/allkey/
